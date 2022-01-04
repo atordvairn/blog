@@ -1,6 +1,6 @@
 ---
 title: Next.JS - the production ready react on steroids frameowrk
-date: '2022-01-02'
+date: '2022-01-01'
 tags: ['javscript', 'framework', 'new', 'next.js', 'react']
 draft: false
 summary: 'next.js is emerging as a popular JavaScript framework for production it is made over react and is very performant.'
