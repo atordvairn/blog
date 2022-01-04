@@ -5,6 +5,8 @@ tags: ['javscript', 'framework', 'new', 'next.js', 'react']
 draft: false
 summary: 'next.js is emerging as a popular JavaScript framework for production it is made over react and is very performant.'
 ---
+
+![nextjs is a react based framework](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkdAR-wWzQyu7bNf4GmKqyOwGb5-HqEXuwmg&usqp=CAU)
 [Next JS](nextjs.org) is an amazing JavaScript framework made on the existing react framework made by [Facebook](https://facebook.com/). Factors that make it amazing or the SEO features. Also [Next JS](nextjs.org) as an inbuilt support for API structures which make it even more amazing when working with APIs.
 
 
@@ -17,7 +19,7 @@ Other frameworks like [blitz.js](https://blitzjs.com/) are made on top of next.j
 
 
 [Next v12 is now using rust compiler](https://nextjs.org/blog/next-12) and is having 5x faster builds than before!
-
+![next.ja is fast!](https://c.tenor.com/EnZGimQ0SQ8AAAAC/speed.gif)
 ### installation
 To initialise a next.js application, run:
 ``` bash
