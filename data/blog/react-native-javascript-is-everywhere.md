@@ -6,6 +6,7 @@ draft: false
 summary: 'Welcome react native, now JavaScript runs on Android, Windows and iOS like anywhere! See how react native is different than others!'
 ---
 
+![react native runs on both iOS and Android as well as windows](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVFBkWp7_5N74ZmGP0LHudxWhuN-EBCICxMA&usqp=CAU)
 Welcome [react native](https://reactnative.dev/), now JavaScript runs on Android, Windows and iOS like anywhere!
 
 Being a JavaScript developer, making mobile apps was just a WebView with our site running.
@@ -46,6 +47,7 @@ React-native is really easy if you know some react
 You can quickly [learn the basics here](https://reactnative.dev/docs/tutorial) if you have a good knowledge of react.
 
 ### why react native ?
+![it's good :)](https://c.tenor.com/fjdrDuVtEkAAAAAM/confused-look.gif)
 React native comes with a lot of advantages for a JavaScript developer
 - open source
 - free
