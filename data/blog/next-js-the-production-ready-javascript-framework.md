@@ -47,6 +47,6 @@ You can create as many folders and can also access them.
 Like, making component folder which will contain usable components which you can reuse in different pages without writing same code every time.
 
 ### wrapping up
-Next years is an amazing framework for creating beautiful applications with react which perform amazingly in search results and performant on the user's side.
+Next js is an amazing framework for creating beautiful applications with react which perform amazingly in search results and performant on the user's side.
 It's evolving into other framework too like [blitz.js](https://blitzjs.com/) which are having a bit of ruby like approach.
 Anyways, next is a must try if you're a react developer!
