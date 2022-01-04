@@ -1,6 +1,6 @@
 ---
 name: volcareso
-avatar: /public/avatar/volcareso.jpg
+avatar: /data/logo.png
 occupation: full stack web developer
 company:
 email: volcareso@gmail.com
