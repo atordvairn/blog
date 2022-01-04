@@ -1,11 +1,9 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Throw-Me',
+    description: `a ridiculously simple open source url shortener with no adverts :)`,
+    imgSrc: '/static/images/throw-me.png',
+    href: 'https://throw-me.vercel.app/',
   },
 ]
 
