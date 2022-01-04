@@ -8,8 +8,8 @@ const siteMetadata = {
   siteUrl: 'https://the-all-javascript-blog.vercel.app/',
   siteRepo: 'https://github.com/volcareso/theAllJavascriptBlog',
   siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  image: '/static/images/logo.png',
+  socialBanner: '/static/images/logo.png',
   email: 'volcareso@gmail.com',
   github: 'https://github.com/volcareso',
   twitter: 'https://twitter.com/volcareso',
@@ -18,11 +18,10 @@ const siteMetadata = {
   linkedin: 'https://www.linkedin.com/volcareso',
   locale: 'en-US',
   analytics: {
-    // supports plausible, simpleAnalytics, umami or googleAnalytics
-    plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
-    simpleAnalytics: true, // true or false
-    umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
-    googleAnalyticsId: 'G-MB1T7H6G12', // e.g. UA-000000-2 or G-XXXXXXX
+    plausibleDataDomain: '',
+    simpleAnalytics: false,
+    umamiWebsiteId: '',
+    googleAnalyticsId: '',
   },
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo
@@ -30,12 +29,8 @@ const siteMetadata = {
     provider: 'buttondown',
   },
   comment: {
-    // Select a provider and use the environment variables associated to it
-    // https://vercel.com/docs/environment-variables
-    provider: 'giscus', // supported providers: giscus, utterances, disqus
+    provider: 'giscus',
     giscusConfig: {
-      // Visit the link below, and follow the steps in the 'configuration' section
-      // https://giscus.app/
       repo: process.env.NEXT_PUBLIC_GISCUS_REPO,
       repositoryId: process.env.NEXT_PUBLIC_GISCUS_REPOSITORY_ID,
       category: process.env.NEXT_PUBLIC_GISCUS_CATEGORY,
