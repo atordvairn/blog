@@ -38,6 +38,7 @@ const Giscus = ({ mapping }) => {
       if (comments) comments.innerHTML = ''
     }
   }, [commentsTheme, mapping])
+  LoadComments()
 
   // Reload on theme change
   useEffect(() => {
@@ -48,7 +49,7 @@ const Giscus = ({ mapping }) => {
 
   return (
     <div className="pt-6 pb-6 text-center text-gray-700 dark:text-gray-300">
-      {enableLoadComments && <p onLoad={LoadComments}>Loading comments...</p>}
+      {enableLoadComments && <p onCoad={LoadComments}>Load comments</p>}
       <div className="giscus" id={COMMENTS_ID} />
     </div>
   )
