@@ -35,6 +35,22 @@ class MyDocument extends Document {
           />
         </Head>
         <body className="antialiased text-black bg-white dark:bg-gray-900 dark:text-white">
+          <script
+            async
+            src={`https://www.googletagmanager.com/gtag/js?id=G-MX3967Z4P3`}
+          />
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-MB1T7H6G12', {
+              page_path: window.location.pathname,
+            });
+          `,
+            }}
+          />
           <Main />
           <NextScript />
         </body>
