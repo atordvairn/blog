@@ -14,13 +14,14 @@ const LayoutWrapper = ({ children }) => {
       <div className="flex flex-col justify-between h-screen">
         <header className="flex items-center justify-between py-10">
           <div>
-            <Link href="/" aria-label="Tailwind CSS Blog">
+            <Link href="/" aria-label="The All JavaScript Blog">
               <div className="flex items-center justify-between">
                 <div className="mr-3">
                   {/* <Logo /> */}
                   <img
                     src="https://i.ibb.co/XYqXVLj/favicon-16x16.png"
                     style={{ height: '50px', width: '50px', borderRadius: '15px' }}
+                    alt="site's icon"
                   />
                 </div>
                 {typeof siteMetadata.headerTitle === 'string' ? (
