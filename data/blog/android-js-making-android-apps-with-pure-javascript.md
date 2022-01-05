@@ -68,9 +68,9 @@ androidjs b -f
 ```
 
 ### Why _not_ to use it
-Android.js isn't better than react-native
+Android.js isn't better than [react-native](/react-native-javascript-is-everywhere)
 But, at least you can (somewhat) throw your existing code in it and generate an API to work on a device just like android application.
-React native stays the best way to make Android applications with react (JavaScript).
+[React native](https://reactnative.dev/) stays the best way to make Android applications with react (JavaScript).
 
 ### other resources
 [docs](https://android-js.github.io/docs/) - documentation for android.js
