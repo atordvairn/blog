@@ -46,7 +46,7 @@ export default function Home({ posts }) {
                       <div className="space-y-6">
                         <div>
                           <h2 className="text-2xl font-bold leading-8 tracking-tight">
-                            <Link style={{ color: "#4b99e8"}} href={`/${slug}`} className="text-gray-900 dark:text-gray-100">
+                            <Link href={`/${slug}`} className="text-gray-900 dark:text-gray-100">
                               {title}
                             </Link>
                           </h2>
