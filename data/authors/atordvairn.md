@@ -5,7 +5,7 @@ occupation: JavaScript developer
 company:
 email: atordvairn@gmail.com
 twitter: https://twitter.com/atordvairn
-linkedin: https://www.linkedin.com/atordvairn
+linkedin: https://www.linkedin.com/in/atordvairn
 github: https://github.com/atordvairn
 ---
 
