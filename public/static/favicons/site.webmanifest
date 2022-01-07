@@ -1,6 +1,6 @@
 {
-  "name": "The All JavaScript Blog",
-  "short_name": "The All JavaScript Blog",
+  "name": "atordvairn- blog",
+  "short_name": "atordvairn- blog",
   "icons": [
     {
       "src": "/android-chrome-96x96.png",
@@ -8,7 +8,7 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#000000",
-  "background_color": "#000000",
+  "theme_color": "#39B7FF",
+  "background_color": "#39B7FF",
   "display": "standalone"
 }
