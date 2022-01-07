@@ -1,5 +1,5 @@
 const fs = require('fs')
-const globby = require('globby')
+import globby from 'globby'
 const prettier = require('prettier')
 const siteMetadata = require('../data/siteMetadata')
 
