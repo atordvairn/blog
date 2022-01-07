@@ -47,7 +47,7 @@ const NewsletterForm = ({ title = 'Want Stuff In Your Email ?' }) => {
             className="px-4 rounded-md w-72 dark:bg-black focus:outline-none focus:ring-2 focus:border-transparent focus:ring-primary-600"
             id="email-input"
             name="email"
-            placeholder={subscribed ? "You're subscribed !  🎉" : 'smartdev@smartypants.com'}
+            placeholder={subscribed ? "Check your email !  🎉" : 'javascriptdev@gmail.com'}
             ref={inputEl}
             required
             type="email"
@@ -62,7 +62,7 @@ const NewsletterForm = ({ title = 'Want Stuff In Your Email ?' }) => {
             type="submit"
             disabled={subscribed}
           >
-            {subscribed ? 'Thank you!' : 'Sign up'}
+            {subscribed ? 'Have a nice day!' : 'Sign up'}
           </button>
         </div>
       </form>
