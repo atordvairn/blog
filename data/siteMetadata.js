@@ -1,21 +1,21 @@
 const siteMetadata = {
-  title: 'The All JavaScript Blog',
-  author: 'volcareso',
-  headerTitle: 'The All JavaScript Blog',
+  title: 'atordvairn- blog',
+  author: 'atordvairn',
+  headerTitle: 'atordvairn- blog',
   description: 'A blog which focuses on front end and backend javascript development.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://the-all-javascript-blog.vercel.app/',
-  siteRepo: 'https://github.com/volcareso/theAllJavascriptBlog',
+  siteUrl: 'https://atordvairn.vercel.app/',
+  siteRepo: 'https://github.com/atordvairn/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/logo.png',
   socialBanner: '/static/images/logo.png',
-  email: 'volcareso@gmail.com',
-  github: 'https://github.com/volcareso',
-  twitter: 'https://twitter.com/volcareso',
+  email: 'atordvairn@gmail.com',
+  github: 'https://github.com/atordvairn',
+  twitter: 'https://twitter.com/atordvairn',
   facebook: 'https://facebook.com/',
   youtube: 'https://youtube.com/',
-  linkedin: 'https://www.linkedin.com/volcareso',
+  linkedin: 'https://www.linkedin.com/atordvairn',
   locale: 'en-US',
   analytics: {
     plausibleDataDomain: '',
@@ -24,8 +24,6 @@ const siteMetadata = {
     googleAnalyticsId: '',
   },
   newsletter: {
-    // supports mailchimp, buttondown, convertkit, klaviyo
-    // Please add your .env file and modify it according to your selection
     provider: 'buttondown',
   },
   comment: {
