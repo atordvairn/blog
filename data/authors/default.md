@@ -1,12 +1,12 @@
 ---
-name: volcareso
+name: atordvairn
 avatar: /static/images/avatar.png
-occupation: full stack web developer
+occupation: JavaScript developer
 company:
-email: volcareso@gmail.com
-twitter: https://twitter.com/volcareso
-linkedin: https://www.linkedin.com/volcareso
-github: https://github.com/volcareso
+email: atordvairn@gmail.com
+twitter: https://twitter.com/atordvairn
+linkedin: https://www.linkedin.com/atordvairn
+github: https://github.com/atordvairn
 ---
 
-full stack javascript developer who loves javascript and web technologies.
+I am a JavaScript developer learning about literally everything I can find
