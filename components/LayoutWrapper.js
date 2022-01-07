@@ -1,6 +1,6 @@
 import siteMetadata from '@/data/siteMetadata'
 import headerNavLinks from '@/data/headerNavLinks'
-import Logo from '@/data/logo.svg'
+// import Logo from '@/data/logo.svg'
 import Link from './Link'
 import SectionContainer from './SectionContainer'
 import Footer from './Footer'
@@ -19,7 +19,7 @@ const LayoutWrapper = ({ children }) => {
                 <div className="mr-3">
                   {/* <Logo /> */}
                   <img
-                    src="https://i.ibb.co/XYqXVLj/favicon-16x16.png"
+                    src="https://i.ibb.co/D9GZb1r/20220106-134100-0000.png"
                     style={{ height: '50px', width: '50px', borderRadius: '15px' }}
                     alt="site's icon"
                   />
