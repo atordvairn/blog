@@ -1,5 +1,5 @@
 ---
-title: Next.JS - the production ready react on steroids frameowrk
+title: Next.JS - the production ready react on steroids framework
 date: '2022-01-01'
 tags: ['javscript', 'framework', 'new', 'next.js', 'react']
 draft: false
