@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'A blog which focuses on front end and backend javascript development.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://atordvairn.vercel.app/',
+  siteUrl: 'https://atordvairn.js.cool/',
   siteRepo: 'https://github.com/atordvairn/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/logo.png',
