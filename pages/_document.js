@@ -43,7 +43,7 @@ class MyDocument extends Document {
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-7HTJF5DHGP', {
+            gtag('config', 'G-F6FDH8BKXK', {
               page_path: window.location.pathname,
             });
           `,
