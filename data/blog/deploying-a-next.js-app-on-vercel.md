@@ -9,7 +9,7 @@ summary: "vercel is the best platform to deploy and test your next.js applicatio
 ![next.js logo](https://assets.vercel.com/image/upload/q_auto/front/assets/design/white-nextjs.png)
 vercel is the best platform to deploy and test your next.js application. Let's see how you can deploy there for free.
 
-for this, you need to have one accounts:
+for this, you'll need to have one account:
 - [vercel](https://vercel.com/) (ofc)
 
 first of all, make a git repository with a next.js project
