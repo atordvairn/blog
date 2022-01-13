@@ -23,7 +23,7 @@ const LayoutWrapper = ({ children }) => {
                     style={{ height: '50px', width: '50px', borderRadius: '15px' }}
                     alt="site's icon"
                   />*/}
-                  <Image src="/static/images/logo.png" height={50} style={{ borderRadius: '15px' }} />
+                  <Image src="/static/images/logo.png" alt="icon" style={{ height: '50px', width: '50px', borderRadius: '15px' }} />
                 </div>
                 {typeof siteMetadata.headerTitle === 'string' ? (
                   <div className="hidden h-6 text-2xl font-semibold sm:block">
