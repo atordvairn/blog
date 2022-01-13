@@ -15,11 +15,12 @@ const isSocket = process.env.SOCKET
 
 export default function App({ Component, pageProps }) {
   return (
-    <ThemeProvider style={{ fontFamily: "'Abel', sans-serif !important" }} attribute="class" defaultTheme={siteMetadata.theme}>
+    <ThemeProvider attribute="class" defaultTheme={siteMetadata.theme}>
       <Head>
         <meta content="width=device-width, initial-scale=1" name="viewport" />
-        <Script src="https://kit.fontawesome.com/5dffc9617e.js" />
       </Head>
+     <Script src="https://kit.fontawesome.com/5dffc9617e.js" />
+
       {isDevelopment && isSocket && <ClientReload />}
       <Analytics />
       <LayoutWrapper>
