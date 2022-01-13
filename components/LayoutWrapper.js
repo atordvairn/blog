@@ -17,13 +17,11 @@ const LayoutWrapper = ({ children }) => {
             <Link href="/" aria-label="The All JavaScript Blog">
               <div className="flex items-center justify-between">
                 <div className="mr-3">
-                  {/* <Logo /> */}
-               {/*<img
+                  <Image
                     src="https://i.ibb.co/D9GZb1r/20220106-134100-0000.png"
                     style={{ height: '50px', width: '50px', borderRadius: '15px' }}
                     alt="site's icon"
-                  />*/}
-                  <Image src="/static/images/logo.png" alt="icon" style={{ height: '50px', width: '50px', borderRadius: '15px' }} />
+                  />
                 </div>
                 {typeof siteMetadata.headerTitle === 'string' ? (
                   <div className="hidden h-6 text-2xl font-semibold sm:block">
