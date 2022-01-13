@@ -1,5 +1,4 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document'
-import Script from 'next/script'
 
 class MyDocument extends Document {
   render() {
@@ -35,7 +34,6 @@ class MyDocument extends Document {
           />
         </Head>
         <body className="antialiased text-black bg-white dark:bg-gray-900 dark:text-white">
-          <Script src="https://kit.fontawesome.com/5dffc9617e.js" />
           <script
             async
             src={`https://www.googletagmanager.com/gtag/js?id=G-MX3967Z4P3`}
