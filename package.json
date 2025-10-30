@@ -44,7 +44,7 @@
   "devDependencies": {
     "@next/bundle-analyzer": "12.1.1",
     "@svgr/webpack": "^6.1.2",
-    "cross-env": "^7.0.3",
+    "cross-env": "^10.1.0",
     "dedent": "^0.7.0",
     "eslint": "^8.6.0",
     "eslint-config-next": "12.1.1",
